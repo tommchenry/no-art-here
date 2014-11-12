@@ -14,7 +14,7 @@ def euclid(m,n):
         print "R: ", r 
         euclid (n,r)
 
-euclid(556,378)
+euclid(2166,6099)
 
 
 # vim: tabstop=8 expandtab shiftwidth=4 softtabstop=4
